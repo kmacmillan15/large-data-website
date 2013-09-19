@@ -1,0 +1,23 @@
+# Sitemap
+
+- Home 
+- About Cats
+ 	- History
+ 	- Play 
+ 	- Behaviour
+ 	- Vocalization
+ 	- Reproduction
+- Finding the perfect cat
+	- Kitten care
+	- Breeds
+- Having a Healthy Cat
+	- Diseases
+	- Signs of Illness
+	- Vets
+- Feeding your Cat
+	- Food Brands
+	- Feeding times
+- Tender Loving Care
+	- Nutrition
+	- Care/cleaning
+	- Training
