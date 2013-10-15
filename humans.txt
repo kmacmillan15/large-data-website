@@ -1,0 +1,23 @@
+# /* TEAM */
+
+                            
+Your title: Kelsey MacMillan.
+Site: http://www.behance.net/kmacmillan15
+Twitter: @KelseyDesigns15
+Location: Ottawa, ON.
+
+[...]
+
+/* THANKS */
+Name: Thomas J Bradley
+
+                        [...]
+                 
+/* SITE */
+                            
+Last update: 2013/10/10 
+Standards: HTML5, CSS3,..
+Components: Jekyll, Github, 
+Software: Dreamweaver
+
+                            
