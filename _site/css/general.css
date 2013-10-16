@@ -1,0 +1,48 @@
+@-moz-viewport { width: device-width; scale:1; }
+@-ms-viewport { width: device-width; scale:1; }
+@-o-viewport { width: device-width; scale:1; }
+@-webkit-viewport { width: device-width; scale:1; }
+@viewport { width: device-width; scale:1; }
+
+
+html {
+	margin: 0;
+	padding: 0;
+	font-family: "Calisto MT";
+	background-color: #e2e2e2;
+}
+
+nav {
+	background-color: #000;
+	padding: .5em;
+	text-align: center;
+}
+
+nav a {
+	color: fff;
+	list-style-type: none;
+	text-decoration: none;
+	font-size: 1.5em;
+}
+
+body {
+	margin: 0;
+	padding: 1em;
+}
+
+.font {
+	font-size:18px;
+}
+
+@media only screen and (max-width: 38em) {
+
+	nav a {
+		font-size: 1em;
+	}
+
+}
+
+
+
+
+
