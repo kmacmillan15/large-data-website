@@ -29,9 +29,14 @@
 </head>
 <body>
 
+	<ul class="skiplinks">
+	<li><a href="#main">Skip to primary content</a></li>
+	<li><a href="#navigation">Skip to main navigation</a></li>
+	</ul>
+
 	<header>
 	
-	<nav>
+	<nav role="navigation" id="navigation">
 		<div class="grid">
 			<div class="unit unit-s-1 unit-m-1 unit-l-1-6">
 				<a href="index.html" class="selected" rel="home">Home</a>
@@ -55,6 +60,7 @@
 	</nav>
 	</header>
 
+<main role="main" id="main">
 <!doctype html>
 <html>
 <head>
@@ -123,7 +129,11 @@
 </body>
 </html>
 
+</main>
 
-<footer>Kelsey MacMillan Designs <cite>Source: Wikipedia/Cats</cite> <cite>,Source: mykitten.ca</cite></footer>
+<footer role="contentinfo">
+<p>Kelsey MacMillan Designs <cite>Source: Wikipedia/Cats</cite> <cite>,Source: mykitten.ca</cite></p>
+</footer>
+
 </body>
 </html>

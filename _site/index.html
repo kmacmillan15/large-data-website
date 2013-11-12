@@ -29,9 +29,14 @@
 </head>
 <body>
 
+	<ul class="skiplinks">
+	<li><a href="#main">Skip to primary content</a></li>
+	<li><a href="#navigation">Skip to main navigation</a></li>
+	</ul>
+
 	<header>
 	
-	<nav>
+	<nav role="navigation" id="navigation">
 		<div class="grid">
 			<div class="unit unit-s-1 unit-m-1 unit-l-1-6">
 				<a href="index.html" class="selected" rel="home">Home</a>
@@ -55,7 +60,8 @@
 	</nav>
 	</header>
 
-	<img src="../img/banner.png" class="flex-img" alt="">
+<main role="main" id="main">
+	<img src="img/banner.png" class="flex-img" alt="">
 	
 	<div class="font">
 	<p>Kitten and Cat care is right here for you! Well here is the perfect website for you to discover all the applicable needs to caring for a new kitten or cat. It helps you discover about cats, finding your perfect cats, having a healthy cat, feeding your cats and tender loving care they need. Everything to help you is right here. So come explore!</p>
@@ -98,7 +104,11 @@
 </body>
 </html>
 
+</main>
 
-<footer>Kelsey MacMillan Designs <cite>Source: Wikipedia/Cats</cite> <cite>,Source: mykitten.ca</cite></footer>
+<footer role="contentinfo">
+<p>Kelsey MacMillan Designs <cite>Source: Wikipedia/Cats</cite> <cite>,Source: mykitten.ca</cite></p>
+</footer>
+
 </body>
 </html>
